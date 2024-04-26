@@ -1,5 +1,5 @@
 
-let x - 5;
+let x = 5;
 console.log()
 
 x++;
@@ -38,4 +38,4 @@ let amountogbooks = 5;
 let newnookarrived = 10;
 
 
-amountofbook *=
+amountofbook 
