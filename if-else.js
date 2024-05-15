@@ -41,7 +41,7 @@ if (dayOfWeek === 'Friday' || dayOfWeek === 'Saturday' ) {
     console.log("Why wait for Friday? Any night is good for 'The Avengers'!");
 }
 
-let weekday = [Monday, Tuesday, Wednesday, Thursday, Friday];
+let weekday = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'];
 if (weekday.includes('Thursday')) {
     console.log("Get read for school");
 } else {
